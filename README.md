@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=adahoxcredifranco&rank_icon=github&custom_title=Fiz%20oque%20pude!&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&include_forks=true&theme=default_repocard)](https://github.com/adahoxcredifranco)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=adahoxcredifranco&rank_icon=github&custom_title=Fiz%20oque%20pude!&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&include_forks=true&count_private=true&theme=default_repocard)](https://github.com/adahoxcredifranco)
